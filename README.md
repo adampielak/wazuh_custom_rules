@@ -34,4 +34,7 @@ wazuh-reload-rules
 - Check for `if_sid` conflicts after Wazuh upgrades with `wazuh-reload-rules`
 - Rule IDs 100000–109999 are reserved for local use per Wazuh documentation
 
+## Related articles
 
+- [Detection engineering in Wazuh: from a raw log to a tested rule](https://wazuh.blog/en/blog/wazuh-detection-engineering/)
+- [Custom Wazuh decoders: syntax, regex, sibling and dynamic fields](https://wazuh.blog/en/blog/wazuh-custom-decoders/)
